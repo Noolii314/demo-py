@@ -1,5 +1,5 @@
 def Python():
-
+# python patern
     import time
     for row in range(7):
         for col in range(5):
